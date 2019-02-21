@@ -4,7 +4,7 @@ from flask import render_template, url_for, flash, redirect, request
 from flask import request, jsonify
 import sqlite3
 import os.path
-from forms import ifsc_filter
+#from forms import ifsc_filter
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 db_path = os.path.join(BASE_DIR, "bank.db")
 DATABASE = 'C:\\Users\Win 10\projects\bank\api\bank.db'
