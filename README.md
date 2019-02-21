@@ -1,4 +1,4 @@
-# bank_database'
+# CREATING A REST SERVICE'
 Uses REST services to fetch details of a Bank Database 
 funtionalities:
 1. replace the required IFSC code in the link displayed and the corresponding branch details are listed for the users 
