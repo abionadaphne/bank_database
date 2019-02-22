@@ -1,0 +1,19 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https:"
+    }
+  ],
+  "description": "A simple application that fetched details from a bank database using RESTful APIs",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "bank_rest_service",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
